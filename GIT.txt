@@ -1,1 +1,6 @@
 DEMO
+
+GIT STATUS 			- estado del repositorio
+GIT ADD "ARCHIVO" 		- añadir para subir
+GIT COMMIT -M "COMENTARIO"	- hacer commit - confirmar
+GIT PUSH			- subir el archivo
