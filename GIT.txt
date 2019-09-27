@@ -1,6 +1,7 @@
 DEMO
 
+GIT CLONE			- clonar repositorio
 GIT STATUS 			- estado del repositorio
-GIT ADD "ARCHIVO" 		- añadir para subir
-GIT COMMIT -M "COMENTARIO"	- hacer commit - confirmar
-GIT PUSH			- subir el archivo
+GIT ADD "ARCHIVO" 		- añadir para subir		1 FASE	los que quiero subir
+GIT COMMIT -M "COMENTARIO"	- hacer commit - confirmar	2 FASE	confirma que ese archi va ir
+GIT PUSH			- subir el archivo		3 FASE	se sube al repositorio
